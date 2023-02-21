@@ -1,0 +1,26 @@
+{\Large Ultimate Tic-Tac-Toe\footnote{From \underline{Math with Bad Drawings} by Ben Orlin}}
+
+\begin{enumerate}
+	\item Each turn you mark a square on a mini-board.
+	\item You don’t get to pick which of the nine boards to play on. That’s determined by your opponent’s previous move. Whichever square he picks, that’s the board you must play in next.  The exception to this rule is if the board you are sent to has already been won, you can go to any mini-board you wish.
+	\item When you get three in a row on a mini-board, you win that board.
+	\item When you get three mini-boards in a row, you win the game.
+\end{enumerate}
+\vspace{1cm}
+\centering
+
+\begin{tikzpicture}[scale=.5]
+		\draw (-5,-15) -- ++(90:30);
+		\draw (5,-15) -- ++(90:30);
+		\draw (-15,-5) -- ++(0:30);
+		\draw (-15,5) -- ++(0:30);
+\foreach \x in {-4,0,4}
+\foreach \y in {-4,0,4}
+	{\begin{scope}[xshift=\x in, yshift = \y in]
+		\draw (-1,-3) -- ++(90:6);
+		\draw (1,-3) -- ++(90:6);
+		\draw (-3,-1) -- ++(0:6);
+		\draw (-3,1) -- ++(0:6);
+	\end{scope}}
+
+\end{tikzpicture}

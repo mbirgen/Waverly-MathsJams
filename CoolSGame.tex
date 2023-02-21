@@ -1,0 +1,68 @@
+\newcommand{\cools}{\begin{tikzpicture}[scale = 0.08]
+	\draw[] (1, -3)--(1, -2)--(0,-1) --(0,0) -- (1, 1) -- (2, 0) -- (2,-1) -- (1.5, -1.5);
+	\draw[] (0.5, -1.5) -- (0, -2)-- (0, -3) -- (1, -4) -- (2, -3) -- (2, -2) -- (1, -1) -- (1,0);
+\end{tikzpicture}}
+\large
+\textbf{Play \cools
+}
+
+\section*{Cool S Game}
+Start with a grid with alternating
+vertical lines drawn in. Take it in
+turns to add a diagonal line (full or
+partial). If you create a \cools \, 
+shape in the grid, write your initial
+in it.
+
+The winner is the player with the
+most \cools 's drawn in the grid
+when no more moves are
+possible. \medskip
+
+\begin{center}
+\begin{tikzpicture}
+
+\foreach \y in {0,...,8}{
+	 \foreach \x in {0,...,15}{
+		\draw (0.5*\x,\y) -- (0.5*\x,\y + 0.5);
+		}
+	}
+	
+	\foreach \x in {0,...,15}{
+		\fill (0.5*\x,9) circle[radius=0.5pt];
+		\fill (0.5*\x,-0.5) circle[radius=0.5pt];
+		}
+
+\end{tikzpicture}\vfill
+
+\begin{tikzpicture}
+
+\foreach \y in {0,...,8}{
+	 \foreach \x in {0,...,15}{
+		\draw (0.5*\x,\y) -- (0.5*\x,\y + 0.5);
+		}
+	}
+	
+	\foreach \x in {0,...,15}{
+		\fill (0.5*\x,9) circle[radius=0.5pt];
+		\fill (0.5*\x,-0.5) circle[radius=0.5pt];
+		}
+
+\end{tikzpicture}\medskip \\
+
+
+	\begin{tikzpicture}
+	
+\foreach \y in {0,...,20}{
+	 \foreach \x in {0,...,30}{
+		\draw [] (0.5*\x,\y) -- (0.5*\x,\y + 0.5);
+		}
+	}
+	
+	\foreach \x in {0,...,30}{
+		\fill (0.5*\x,21) circle[radius=0.5pt];
+		\fill (0.5*\x,-0.5) circle[radius=0.5pt];
+		}
+
+\end{tikzpicture}
+\end{center}
