@@ -12,13 +12,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=36
 NormalPos.right=1562
-NormalPos.bottom=562
+NormalPos.bottom=447
 Class=LaTeXView
 Document=JamSheets.tex
 
 [Frame0_View0,0]
-TopLine=13
-Cursor=634
+TopLine=18
+Cursor=704
 
 [Frame1]
 Flags=0
@@ -30,7 +30,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=36
 NormalPos.right=1562
-NormalPos.bottom=562
+NormalPos.bottom=447
 Class=LaTeXView
 Document=No_Triangles.tex
 
@@ -40,5 +40,5 @@ Cursor=1004
 
 [SessionInfo]
 FrameCount=2
-ActiveFrame=1
+ActiveFrame=0
 
