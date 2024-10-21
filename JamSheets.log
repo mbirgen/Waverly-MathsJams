@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.1.8)  20 MAY 2024 11:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.1.8)  16 SEP 2024 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -706,6 +706,8 @@ File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box133
 ) (JamSheets.aux
+(MathSnake.aux) (PizzUnits.aux) (MagicPinwheel.aux) (Dominoes.aux)
+(Ultimate_Tic-Tac-Toe.aux) (CoolSGame.aux) (PaperBoxing.aux) (No_Triangles.aux)
 (Recreational1.aux))
 \openout1 = `JamSheets.aux'.
 
@@ -781,14 +783,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
 
-\openout2 = `Recreational1.aux'.
+\openout2 = `MathSnake.aux'.
 
-(Recreational1.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(MathSnake.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
  (C:\MikTex2\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
 
 (C:\MikTex2\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -796,28 +798,26 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 {C:/Users/mariah.birgen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Jam
-Sheets.aux (Recreational1.aux))
+Sheets.aux (MathSnake.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26151 strings out of 474491
- 681092 string characters out of 5759757
- 1930473 words of memory out of 5000000
- 47994 multiletter control sequences out of 15000+600000
- 560373 words of font info for 46 fonts, out of 8000000 for 9000
+ 26204 strings out of 474491
+ 682696 string characters out of 5759757
+ 1935473 words of memory out of 5000000
+ 48023 multiletter control sequences out of 15000+600000
+ 560244 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,5n,93p,732b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/MikTex2/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTex2/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><C:/MikTex2/fonts/type1/public/amsfonts/cm/cmmi5
-.pfb><C:/MikTex2/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MikTex2/fonts/typ
-e1/public/amsfonts/cm/cmr5.pfb><C:/MikTex2/fonts/type1/public/amsfonts/cm/cmr7.
-pfb>
-Output written on JamSheets.pdf (1 page, 68855 bytes).
+ 84i,6n,93p,732b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/MikTex2/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MikTex2/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/MikTex2/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb>
+Output written on JamSheets.pdf (1 page, 51247 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
