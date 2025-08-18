@@ -10,15 +10,15 @@ MinPos.y=-1
 MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
-NormalPos.top=36
-NormalPos.right=1916
-NormalPos.bottom=643
+NormalPos.top=26
+NormalPos.right=1082
+NormalPos.bottom=513
 Class=LaTeXView
 Document=JamSheets.tex
 
 [Frame0_View0,0]
-TopLine=13
-Cursor=771
+TopLine=20
+Cursor=827
 
 [Frame1]
 Flags=0
@@ -28,9 +28,9 @@ MinPos.y=-1
 MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
-NormalPos.top=36
-NormalPos.right=1916
-NormalPos.bottom=643
+NormalPos.top=26
+NormalPos.right=1082
+NormalPos.bottom=513
 Class=LaTeXView
 Document=No_Triangles.tex
 
@@ -46,9 +46,9 @@ MinPos.y=-1
 MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
-NormalPos.top=36
-NormalPos.right=1916
-NormalPos.bottom=643
+NormalPos.top=26
+NormalPos.right=1082
+NormalPos.bottom=513
 Class=LaTeXView
 Document=Recreational1.tex
 
@@ -64,9 +64,9 @@ MinPos.y=-1
 MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
-NormalPos.top=36
-NormalPos.right=1916
-NormalPos.bottom=643
+NormalPos.top=26
+NormalPos.right=1082
+NormalPos.bottom=513
 Class=LaTeXView
 Document=MathSnake.tex
 
@@ -74,7 +74,25 @@ Document=MathSnake.tex
 TopLine=0
 Cursor=0
 
+[Frame4]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=1082
+NormalPos.bottom=513
+Class=LaTeXView
+Document=Bufton.tex
+
+[Frame4_View0,0]
+TopLine=0
+Cursor=77
+
 [SessionInfo]
-FrameCount=4
+FrameCount=5
 ActiveFrame=0
 

@@ -1,14 +1,17 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.1.8)  16 SEP 2024 09:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.2)  14 APR 2025 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./JamSheets.tex
 (JamSheets.tex
-LaTeX2e <2023-11-01>
-L3 programming layer <2023-12-08>
-(C:\MikTex2\tex/latex/base\article.cls
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\MikTex2\tex/latex/base\size10.clo
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
@@ -23,7 +26,8 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(C:\MikTex2\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
@@ -32,24 +36,30 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\MikTex2\tex/latex/amsmath\amsmath.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(C:\MikTex2\tex/latex/amsmath\amstext.sty
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\MikTex2\tex/latex/amsmath\amsgen.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen141
 ))
-(C:\MikTex2\tex/latex/amsmath\amsbsy.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen142
 )
-(C:\MikTex2\tex/latex/amsmath\amsopn.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count195
@@ -100,7 +110,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\MikTex\tex/latex/amscls\amsthm.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.s
+ty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks23
 \thm@bodyfont=\toks24
@@ -112,37 +123,46 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip55
 \dth@everypar=\toks28
 )
-(C:\MikTex2\tex/latex/graphics\graphicx.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\MikTex2\tex/latex/graphics\keyval.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks29
 )
-(C:\MikTex2\tex/latex/graphics\graphics.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\MikTex2\tex/latex/graphics\trig.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\MikTex2\tex/latex/graphics-cfg\graphics.cfg
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\MikTex2\tex/latex/graphics-def\pdftex.def
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
 )
-(C:\MikTex\tex/latex/geometry\geometry.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\MikTex2\tex/generic/iftex\ifvtex.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\MikTex2\tex/generic/iftex\iftex.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count273
@@ -158,8 +178,10 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen159
 \Gm@dimlist=\toks30
 
-(C:\MikTex\tex/latex/geometry\geometry.cfg))
-(C:\MikTex2\tex/latex/tools\multicol.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.
+sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count276
 \mult@box=\box53
@@ -229,16 +251,20 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \colbreak@box=\box98
 \mc@col@check@num=\count285
 )
-(C:\MikTex2\tex/latex/base\graphpap.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/base\graphpap.s
+ty
 Package: graphpap 1994/08/09 v1.0c Standard LaTeX graphpap package (LL)
 )
-(C:\MikTex2\tex/latex/tools\enumerate.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate
+.sty
 Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
-(C:\MikTex2\tex/latex/tools\tabularx.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.
+sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
- (C:\MikTex2\tex/latex/tools\array.sty
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen169
 \ar@mcellbox=\box99
@@ -255,7 +281,9 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@delta=\dimen175
 \TX@cols=\count286
 \TX@ftn=\toks33
-) (C:\MikTex\tex/latex/framed\framed.sty
+)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.s
+ty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip60
 \fb@frw=\dimen176
@@ -263,36 +291,49 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameRule=\dimen178
 \FrameSep=\dimen179
 )
-(C:\MikTex2\tex/latex/graphics\lscape.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape
+.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
-(C:\MikTex2\tex/latex/pgf/frontendlayer\tikz.sty
-(C:\MikTex2\tex/latex/pgf/basiclayer\pgf.sty
-(C:\MikTex2\tex/latex/pgf/utilities\pgfrcs.sty
-(C:\MikTex2\tex/generic/pgf/utilities\pgfutil-common.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlay
+er\tikz.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\
+pgf.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\p
+gfrcs.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfutil-common.tex
 \pgfutil@everybye=\toks34
 \pgfutil@tempdima=\dimen180
 \pgfutil@tempdimb=\dimen181
 )
-(C:\MikTex2\tex/generic/pgf/utilities\pgfutil-latex.def
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfutil-latex.def
 \pgfutil@abb=\box101
 )
-(C:\MikTex2\tex/generic/pgf/utilities\pgfrcs.code.tex
-(C:\MikTex2\tex/generic/pgf\pgf.revision.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfrcs.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revis
+ion.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/latex/pgf/basiclayer\pgfcore.sty
-(C:\MikTex2\tex/latex/pgf/systemlayer\pgfsys.sty
-(C:\MikTex2\tex/generic/pgf/systemlayer\pgfsys.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\
+pgfcore.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer
+\pgfsys.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/utilities\pgfkeys.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks35
 \pgfkeys@temptoks=\toks36
 
-(C:\MikTex2\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks37
 ))
 \pgf@x=\dimen182
@@ -316,34 +357,42 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokc=\toks40
 \pgf@sys@id@count=\count291
 
-(C:\MikTex2\tex/generic/pgf/systemlayer\pgf.cfg
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\MikTex2\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\MikTex2\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count292
 \pgfsyssoftpath@bigbuffer@items=\count293
 )
-(C:\MikTex2\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\MikTex2\tex/latex/xcolor\xcolor.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.s
+ty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
-(C:\MikTex2\tex/latex/graphics-cfg\color.cfg
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(C:\MikTex2\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathco
+lor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -354,12 +403,16 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcore.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/math\pgfmath.code.tex
-(C:\MikTex2\tex/generic/pgf/math\pgfmathutil.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathparser.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+ath.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athutil.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athparser.code.tex
 \pgfmath@dimen=\dimen192
 \pgfmath@count=\count294
 \pgfmath@box=\box102
@@ -367,21 +420,34 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 \pgfmath@stack@operand=\toks42
 \pgfmath@stack@operation=\toks43
 )
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathcalc.code.tex)
-(C:\MikTex2\tex/generic/pgf/math\pgfmathfloat.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.basic.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.trigonometric.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.random.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.comparison.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.base.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.round.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.misc.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.integerarithmetics.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athcalc.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count295
 ))
-(C:\MikTex2\tex/generic/pgf/math\pgfint.code.tex)
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfi
+nt.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen193
 \pgf@picmaxx=\dimen194
@@ -398,102 +464,130 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@zx=\dimen261
 \pgf@zy=\dimen262
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen263
 \pgf@path@lasty=\dimen264
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen265
 \pgf@shorten@start@additional=\dimen266
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box103
 \pgf@hbox=\box104
 \pgf@layerbox@main=\box105
 \pgf@picture@serial@count=\count296
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen267
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen268
 \pgf@pt@y=\dimen269
 \pgf@pt@temp=\dimen270
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen271
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen272
 \pgf@sys@shading@range@num=\count297
 \pgf@shadingcount=\count298
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box106
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\MikTex2\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box107
 )
-(C:\MikTex2\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibili
+ty\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen273
 \pgf@nodesepend=\dimen274
 )
-(C:\MikTex2\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibili
+ty\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\MikTex2\tex/latex/pgf/utilities\pgffor.sty
-(C:\MikTex2\tex/latex/pgf/utilities\pgfkeys.sty
-(C:\MikTex2\tex/generic/pgf/utilities\pgfkeys.code.tex))
-(C:\MikTex2\tex/latex/pgf/math\pgfmath.sty
-(C:\MikTex2\tex/generic/pgf/math\pgfmath.code.tex))
-(C:\MikTex2\tex/generic/pgf/utilities\pgffor.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\p
+gffor.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\p
+gfkeys.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfkeys.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmat
+h.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+ath.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen275
 \pgffor@skip=\dimen276
 \pgffor@stack=\toks44
 \pgffor@toks=\toks45
 ))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count299
 \pgfplotmarksize=\dimen277
@@ -515,7 +609,8 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofcurrentchild=\count302
 \tikz@fig@count=\count303
 
-(C:\MikTex2\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count304
 \pgfmatrixcurrentcolumn=\count305
@@ -523,15 +618,20 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 \tikz@expandcount=\count307
 
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.cod
-e.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\MikTex2\tex/latex/pgfplots\pgfplots.sty
-(C:\MikTex2\tex/generic/pgfplots\pgfplots.revision.tex)
+)))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplo
+ts.sty
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 
-(C:\MikTex2\tex/generic/pgfplots\pgfplots.code.tex
-(C:\MikTex2\tex/generic/pgfplots\pgfplotscore.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lots.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lotscore.code.tex
 \t@pgfplots@toka=\toks46
 \t@pgfplots@tokb=\toks47
 \t@pgfplots@tokc=\toks48
@@ -539,49 +639,80 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 \c@pgfplots@coordindex=\count308
 \c@pgfplots@scanlineindex=\count309
 
-(C:\MikTex2\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
-(C:\MikTex2\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
-(C:\MikTex2\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.
-tex (C:\MikTex2\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\
+pgfplotssysgeneric.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs
+\pgfplotslibrary.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldp
+gfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
 \t@pgf@toka=\toks49
 \t@pgf@tokb=\toks50
 \t@pgf@tokc=\toks51
 
-(C:\MikTex2\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-comm
-on-lists.tex)) (C:\MikTex2\tex/generic/pgfplots/util\pgfplotsutil.code.tex
-(C:\MikTex2\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex)
-(C:\MikTex2\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.te
-x) (C:\MikTex2\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldp
+gfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util
+\pgfplotsutil.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/list
+structure\pgfplotsliststructure.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/list
+structure\pgfplotsliststructureext.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/list
+structure\pgfplotsarray.code.tex
 \c@pgfplotsarray@tmp=\count310
 )
-(C:\MikTex2\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
-(C:\MikTex2\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/list
+structure\pgfplotsmatrix.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numt
+able\pgfplotstableshared.code.tex
 \c@pgfplotstable@counta=\count311
 \t@pgfplotstable@a=\toks52
 )
-(C:\MikTex2\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
-(C:\MikTex2\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
-(C:\MikTex2\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
-(C:\MikTex2\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
-(C:\MikTex2\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/list
+structure\pgfplotsdeque.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util
+\pgfplotsbinary.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util
+\pgfplotsbinary.data.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util
+\pgfplotsutil.verb.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs
+\pgflibrarypgfplots.surfshading.code.tex
 \c@pgfplotslibrarysurf@no=\count312
 
-(C:\MikTex2\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdft
-ex.def))) (C:\MikTex2\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
-(C:\MikTex2\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
-(C:\MikTex2\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
-(C:\MikTex2\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
-(C:\MikTex2\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
-(C:\MikTex2\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
-(C:\MikTex2\tex/generic/pgfplots\pgfplots.scaling.code.tex)
-(C:\MikTex2\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
-(C:\MikTex2\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
-(C:\MikTex2\tex/generic/pgfplots\pgfplots.markers.code.tex)
-(C:\MikTex2\tex/generic/pgfplots\pgfplotsticks.code.tex)
-(C:\MikTex2\tex/generic/pgfplots\pgfplots.paths.code.tex)
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations
-.code.tex (C:\MikTex2\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\
+pgflibrarypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util
+\pgfplotscolormap.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util
+\pgfplotscolor.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lotsstackedplots.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lotsplothandlers.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lotsmeshplothandler.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lotsmeshplotimage.code.tex)))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lots.scaling.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lotscoordprocessing.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lots.errorbars.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lots.markers.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lotsticks.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfp
+lots.paths.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmoduledecorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen287
 \pgfdecoratedremainingdistance=\dimen288
 \pgfdecoratedinputsegmentcompleteddistance=\dimen289
@@ -593,15 +724,16 @@ ex.def))) (C:\MikTex2\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
 )
 \tikz@lib@dec@box=\box112
 )
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations
-.pathmorphing.code.tex
-(C:\MikTex2\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmor
-phing.code.tex))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations
-.pathreplacing.code.tex
-(C:\MikTex2\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathrep
-lacing.code.tex))
-(C:\MikTex2\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/decorations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/decorations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs
+\tikzlibrarypgfplots.contourlua.code.tex)
 \pgfplots@numplots=\count314
 \pgfplots@xmin@reg=\dimen294
 \pgfplots@xmax@reg=\dimen295
@@ -610,76 +742,89 @@ lacing.code.tex))
 \pgfplots@zmin@reg=\dimen298
 \pgfplots@zmax@reg=\dimen299
 )
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.c
-ode.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\MikTex2\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code
-.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarypatterns.meta.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibrarypatterns.meta.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\MikTex2\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \arrowsize=\dimen300
 ))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.t
-ex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypatterns.co
-de.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarypatterns.code.tex
 File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\MikTex2\tex/generic/pgf/libraries\pgflibrarypatterns.code.tex
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibrarypatterns.code.tex
 File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning
-.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.code
-.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geom
-etric.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.te
-x
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.misc
-.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/libraries/shapes\pgflibraryshapes.misc.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.symb
-ols.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/libraries/shapes\pgflibraryshapes.symbols.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.symbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.arro
-ws.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.arrows.code.tex
 File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/libraries/shapes\pgflibraryshapes.arrows.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.arrows.code.tex
 File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.call
-outs.code.tex
-(C:\MikTex2\tex/generic/pgf/libraries/shapes\pgflibraryshapes.callouts.code.tex
-))
-(C:\MikTex2\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.mult
-ipart.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.callouts.code.tex))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\MikTex2\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.te
-x
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodepartlowerbox=\box113
 \pgfnodeparttwobox=\box114
@@ -701,31 +846,32 @@ File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodepartsevenbox=\box130
 \pgfnodepartsixbox=\box131
 \pgfnodepartfivebox=\box132
-))) (C:\MikTex2\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+)))
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box133
-) (JamSheets.aux
-(MathSnake.aux) (PizzUnits.aux) (MagicPinwheel.aux) (Dominoes.aux)
-(Ultimate_Tic-Tac-Toe.aux) (CoolSGame.aux) (PaperBoxing.aux) (No_Triangles.aux)
-(Recreational1.aux))
+) (JamSheets.aux (Bufton.aux))
 \openout1 = `JamSheets.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
- (C:\MikTex2\tex/context/base/mkii\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count316
 \scratchdimen=\dimen301
@@ -738,12 +884,15 @@ LaTeX Font Info:    ... okay on input line 22.
 \MPnumerator=\count320
 \makeMPintoPDFobject=\count321
 \everyMPtoPDFconversion=\toks54
-) (C:\MikTex2\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\MikTex2\tex/latex/00miktex\epstopdf-sys.cfg
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -754,15 +903,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -783,41 +932,75 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
 
-\openout2 = `MathSnake.aux'.
+\openout2 = `PizzUnits.aux'.
 
-(MathSnake.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
- (C:\MikTex2\tex/latex/amsfonts\umsa.fd
+(PizzUnits.tex) [1
+
+
+{C:/Users/mariah.birgen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+\openout2 = `MagicPinwheel.aux'.
+
+ (MagicPinwheel.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
-(C:\MikTex2\tex/latex/amsfonts\umsb.fd
+(C:\Users\mariah.birgen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) [1
+)
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+[2
 
 
-{C:/Users/mariah.birgen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Jam
-Sheets.aux (MathSnake.aux))
+
+
+]) (JamSheets.aux (PizzUnits.aux) (MagicPinwheel.aux))
  ***********
-LaTeX2e <2023-11-01>
-L3 programming layer <2023-12-08>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26204 strings out of 474491
- 682696 string characters out of 5759757
- 1935473 words of memory out of 5000000
- 48023 multiletter control sequences out of 15000+600000
- 560244 words of font info for 46 fonts, out of 8000000 for 9000
+ 26496 strings out of 474486
+ 704674 string characters out of 5739980
+ 1941542 words of memory out of 5000000
+ 48334 multiletter control sequences out of 15000+600000
+ 559768 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,93p,732b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/MikTex2/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MikTex2/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><C:/MikTex2/fonts/type1/public/amsfonts/cm/cmtt10
-.pfb>
-Output written on JamSheets.pdf (1 page, 51247 bytes).
+ 84i,14n,93p,737b,777s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/mariah.birgen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr10.pfb>
+Output written on JamSheets.pdf (2 pages, 23103 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
